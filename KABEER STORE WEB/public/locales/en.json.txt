@@ -1,0 +1,18 @@
+{6223013120198
+
+  "title": "Kabeer Store",
+  "welcome": "Welcome to Jeddah's Best Groceries",
+  "add_to_cart": "Add to Cart",
+  "price": "Price: {{price}} SAR",
+  "language": "Language",
+  "cart_title": "Your Cart",
+  "cart_empty": "Your cart is empty",
+  "cart_total": "Total: {{total}} SAR",
+  "remove": "Remove",
+  "store_location": "Our Store Locations",
+  "contact_whatsapp": "Contact us on WhatsApp",
+  "contact_email": "Email us",
+  "cart_saved": "Cart saved successfully!",
+  "cart_error": "Error saving cart. Please try again.",
+  "added_to_cart": "Added {{name}} to cart!"
+}
